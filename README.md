@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Kassar</h1>
 <h3 align="center">A passionate Master of Science in Software Engineering student from Sweden</h3>
 
-- 🔭 I’m currently studying [Master of Science in Software Engineering at](https://www.bth.se)
+- 🔭 I’m currently studying [Master of Science in Software Engineering at] (https://www.bth.se)
 
 - 📫 How to reach me **hasan.kassar1@gmail.com**
 
